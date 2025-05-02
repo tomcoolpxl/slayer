@@ -1,11 +1,11 @@
 # ASCII Art Slayer
 
-A standalone Python script that generates ASCII art text with a "slayer" postfix. Perfect for adding some excitement to your terminal!
+A standalone Python script that generates ASCII art text with a "SLAYER" postfix.
 
 ## Features
 
 - **ASCII Art Text**: Transforms input text into large ASCII art letters
-- **"Slayer" Postfix**: Automatically adds "slayer" to your text (e.g., "dragon" → "dragonslayer")
+- **"SLAYER" Postfix**: Automatically adds "SLAYER" to your text (e.g., "DRAGON" → "DRAGONSLAYER")
 - **Rainbow Colors**: Choose between horizontal or letter-by-letter rainbow coloring
 - **Animation**: Watch text appear character by character with adjustable speed
 - **Fireworks**: Create a spectacular display with animated fireworks before and after your text
@@ -38,7 +38,7 @@ With options:
 
 | Option | Long Form | Description |
 |--------|-----------|-------------|
-| `-ns` | `--no-space` | Removes space between text and "slayer" |
+| `-ns` | `--no-space` | Removes space between text and "SLAYER" |
 | `-hr` | `--horizontal-rainbow` | Applies horizontal rainbow colors (each row different color) |
 | `-lr` | `--letter-rainbow` | Colors each letter in a different rainbow color |
 | `-a` | `--animate` | Animates the text appearing character by character |
@@ -48,24 +48,24 @@ With options:
 
 ### Examples
 
-Display "dragon slayer" in big ASCII art letters:
+Display "DRAGON SLAYER" in big ASCII art letters:
 ```
 ./slayer.py dragon
 ```
 
-Display "dragonslayer" with no space and horizontal rainbow colors:
+Display "DRAGONSLAYER" with no space and horizontal rainbow colors:
 ```
 ./slayer.py -ns -hr dragon
-```
-
-Spectacular fireworks display with "demon slayer":
-```
-./slayer.py -fw demon
 ```
 
 Combine options for maximum effect:
 ```
 ./slayer.py -ns -hr -a -fw dragon
+```
+
+Spectacular fireworks display with "SOCKSLAYER":
+```
+./slayer.py -ns -hr -a -fw sock
 ```
 
 ## Screenshots
