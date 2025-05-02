@@ -76,10 +76,6 @@ Spectacular fireworks display with "SOCKSLAYER":
 
 The script includes a built-in ASCII art font, but completely embedded within the script itself - no external dependencies required. It transforms each character of your input text into ASCII art and adds special effects based on your chosen options.
 
-## Author
-
-tomcoolpxl - [@tomcoolpxl](https://github.com/tomcoolpxl)
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
