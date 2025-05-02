@@ -19,7 +19,7 @@ A standalone Python script that generates ASCII art text with a "slayer" postfix
 
 Download the script:
    ```
-   git clone https://github.com/yourusername/ascii-slayer.git
+   git clone https://github.com/tomcoolpxl/slayer.git
    ```
 
 ## Usage
