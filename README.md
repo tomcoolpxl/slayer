@@ -2,6 +2,10 @@
 
 A standalone Python script that generates ASCII art text with a "SLAYER" postfix.
 
+## Screenshots
+
+![Basic Usage](screenshots/basic_usage.png)
+
 ## Features
 
 - **ASCII Art Text**: Transforms input text into large ASCII art letters
@@ -67,10 +71,6 @@ Spectacular fireworks display with "SOCKSLAYER":
 ```
 ./slayer.py -ns -hr -a -fw sock
 ```
-
-## Screenshots
-
-![Basic Usage](screenshots/basic_usage.png)
 
 ## How It Works
 
