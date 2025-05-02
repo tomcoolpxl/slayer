@@ -70,8 +70,7 @@ Combine options for maximum effect:
 
 ## Screenshots
 
-![Basic Usage](https://example.com/screenshots/basic.png)
-![Rainbow Colors](https://example.com/screenshots/rainbow.png)
+![Basic Usage](screenshots/basic_usage.png)
 
 ## How It Works
 
