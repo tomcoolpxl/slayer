@@ -67,9 +67,9 @@ Combine options for maximum effect:
 ./slayer.py -ns -hr -a -fw dragon
 ```
 
-Spectacular fireworks display with "SOCKSLAYER":
+Spectacular fireworks display with "ROCKSLAYER":
 ```
-./slayer.py -ns -hr -a -fw sock
+./slayer.py -ns -hr -a -fw rock
 ```
 
 ## How It Works
